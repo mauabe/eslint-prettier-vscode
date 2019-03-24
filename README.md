@@ -2,7 +2,7 @@
 
 This is a quick way to check your Javascript code and make it pretty too.
 
-It uses Eslint to verify the code, but uses Prettier to format it, and brings the AirBNB Javascript style guide to make the code universally accepted. 
+It uses Eslint to verify the code, but uses Prettier to format it, and brings the AirBNB Javascript style guide to make the code universally accepted.
 
 You don't have to follow any of the rules and suggestions, but this is a good starting point, so you don't have to reinvent the wheel.
 
@@ -11,7 +11,7 @@ https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vsco
 
 ## The starting point
 
-Let's assume you already have `npm` and `npx` installed. You will need these to complete your linter. 
+Let's assume you already have `npm` and `npx` installed. You will need these to complete your linter.
 
 1. Using terminal or your favorite command line program, create a file `package.json` in the root of your project folder. An easy way to do that is to user the command `npm init`.
 
@@ -19,9 +19,9 @@ Let's assume you already have `npm` and `npx` installed. You will need these to 
 
 3. Copy and paste the contents of the repository `package.json` into the `package.json` in the project folder you just created.
 
-## They easy way
+## The easy way
 
-Now you have two options: The easy way is to simply run ```npm i``` in the directory where your `package.json` lives. npm will read the dependenciaes and install everything you need.
+Now you have two options: The easy way is to simply run `npm i` in the directory where your `package.json` lives. npm will read the dependenciaes and install everything you need.
 
 ## The hard way
 
