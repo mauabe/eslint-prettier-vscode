@@ -1,10 +1,7 @@
-function test 90{ 
-var age=10
-
+function test (  ) {
+  var age = 10;
 }
 
+let age = 12;
 
-
-      let age=12
-
-var things = [ 'uno',   "dos"];
+var   things  = [  'uno', 'dos'  ];
